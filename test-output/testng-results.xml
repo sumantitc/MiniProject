@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-06T15:14:57 IST" name="Default suite" finished-at="2022-04-06T15:15:45 IST" duration-ms="48152">
+    <groups>
+    </groups>
+    <test started-at="2022-04-06T15:14:57 IST" name="Default test" finished-at="2022-04-06T15:15:45 IST" duration-ms="48152">
+      <class name="TestLogin.SignUpTestNG">
+        <test-method is-config="true" signature="testSetup()[pri:0, instance:TestLogin.SignUpTestNG@2e6a8155]" started-at="2022-04-06T15:14:57 IST" name="testSetup" finished-at="2022-04-06T15:15:01 IST" duration-ms="4045" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSetup -->
+        <test-method is-config="true" signature="openBrowser1()[pri:0, instance:TestLogin.SignUpTestNG@2e6a8155]" started-at="2022-04-06T15:15:01 IST" name="openBrowser1" finished-at="2022-04-06T15:15:08 IST" duration-ms="7038" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser1 -->
+        <test-method signature="signUp1()[pri:1, instance:TestLogin.SignUpTestNG@2e6a8155]" started-at="2022-04-06T15:15:08 IST" name="signUp1" finished-at="2022-04-06T15:15:13 IST" duration-ms="4336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUp1 -->
+        <test-method is-config="true" signature="postSignUp()[pri:0, instance:TestLogin.SignUpTestNG@2e6a8155]" started-at="2022-04-06T15:15:13 IST" name="postSignUp" finished-at="2022-04-06T15:15:13 IST" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postSignUp -->
+        <test-method is-config="true" signature="openBrowser1()[pri:0, instance:TestLogin.SignUpTestNG@2e6a8155]" started-at="2022-04-06T15:15:13 IST" name="openBrowser1" finished-at="2022-04-06T15:15:16 IST" duration-ms="3071" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser1 -->
+        <test-method signature="signUp2()[pri:2, instance:TestLogin.SignUpTestNG@2e6a8155]" started-at="2022-04-06T15:15:16 IST" name="signUp2" finished-at="2022-04-06T15:15:20 IST" duration-ms="4332" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUp2 -->
+        <test-method is-config="true" signature="postSignUp()[pri:0, instance:TestLogin.SignUpTestNG@2e6a8155]" started-at="2022-04-06T15:15:20 IST" name="postSignUp" finished-at="2022-04-06T15:15:20 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postSignUp -->
+        <test-method is-config="true" signature="openBrowser1()[pri:0, instance:TestLogin.SignUpTestNG@2e6a8155]" started-at="2022-04-06T15:15:20 IST" name="openBrowser1" finished-at="2022-04-06T15:15:24 IST" duration-ms="3496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser1 -->
+        <test-method signature="signUp3()[pri:3, instance:TestLogin.SignUpTestNG@2e6a8155]" started-at="2022-04-06T15:15:24 IST" name="signUp3" finished-at="2022-04-06T15:15:28 IST" duration-ms="4238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUp3 -->
+        <test-method is-config="true" signature="postSignUp()[pri:0, instance:TestLogin.SignUpTestNG@2e6a8155]" started-at="2022-04-06T15:15:28 IST" name="postSignUp" finished-at="2022-04-06T15:15:28 IST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postSignUp -->
+        <test-method is-config="true" signature="openBrowser1()[pri:0, instance:TestLogin.SignUpTestNG@2e6a8155]" started-at="2022-04-06T15:15:28 IST" name="openBrowser1" finished-at="2022-04-06T15:15:31 IST" duration-ms="3008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser1 -->
+        <test-method signature="signUp4()[pri:4, instance:TestLogin.SignUpTestNG@2e6a8155]" started-at="2022-04-06T15:15:31 IST" name="signUp4" finished-at="2022-04-06T15:15:45 IST" duration-ms="14111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUp4 -->
+        <test-method is-config="true" signature="postSignUp()[pri:0, instance:TestLogin.SignUpTestNG@2e6a8155]" started-at="2022-04-06T15:15:45 IST" name="postSignUp" finished-at="2022-04-06T15:15:45 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postSignUp -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:TestLogin.SignUpTestNG@2e6a8155]" started-at="2022-04-06T15:15:45 IST" name="afterClass" finished-at="2022-04-06T15:15:45 IST" duration-ms="323" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- TestLogin.SignUpTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
